@@ -1,0 +1,155 @@
+Regulamin Serwera
+ KoronaRP
+--------------------------------------------------
+
+
+
+§1.Zasady ogólne
+
+1.1. Wchodząc na serwer “KoronaRP” zgadzasz się z poniższym regulaminem i potwierdzasz jego znajomość.
+1.2. Nieznajomość regulaminu nie zwalnia z jego przestrzegania.
+1.3. W przypadku stwierdzenia przez administracje czynności lub zachowania nieodpowiedniego, nieuwzględnionego w regulaminie administracja ma prawo na wyciągnięcie konsekwencji.
+1.4. Wykorzystywanie błędów w grze związanych ze skryptami oraz nie zgłaszanie ich do administracji będzie karane.
+1.5. Zakazuje się korzystanie z wspomagaczy oraz oprogramowania stron trzecich.
+1.6. Administracja nie ponosi odpowiedzialności za utratę kont (nikomu nie podawaj loginów/haseł, administracja nigdy cię o to nie poprosi) oraz straty materialne podczas rozgrywki
+
+§2.Rozgrywka
+
+2.1. Serwer “KoronaRP” jest serwerem RolePlay i obowiązują na nim wszystkie zasady związane z RP.
+2.2. Rozgrywka na serwerze odbywa się w języku polskim, dozwolone jest wtrącanie zagranicznych zwrotów w celu urozmaicenia postaci, aczkolwiek w stopniu przystępnym dla innych graczy.
+2.4. Korzystanie z komunikatorów głosowych (Discord. TeamSpeak itp.) podczas rozgrywki będzie traktowane jako MetaGaming (wyjątkiem jest Radio służb publicznych na Discord).
+2.5. Wykorzystywanie wszelkich błędów w grze, jej mechaniki dających przewagę lub podejmowanie czynności znając mechanikę gry, która umożliwia otrzymanie pożądanego efektu, będzie karane.
+2.6. Osoba która odrodziłą się w szpitalu po BW ma amnezję. Nie pamiętasz ostatniej akcji która doprowadziła cię do amnezji oraz osób które do tego doprowadziły. Brak posiadania amnezji będzie traktowane jako FailRP.
+2.7. Zakazuje się powrotu na akcję w której nasza postać uzyskała amnezję.
+2.8  Zakazuje się powtarzania akcji RP bez zgody obydwu stron. Ustalenie momentu do którego akcja będzie powtórzona również musi zostać ustalona przez obydwie strony.
+§3.Postać
+
+> 3.1. Zakazuje się nadawania postaci imion i nazwisk sławnych osób rzeczywistych lub fikcyjnych.
+> 3.2. Zakazuje się odgrywania postaci, która nie miałaby prawa istnieć w świecie realnym.
+> 3.3. Zakazuje się przekazywania majątku przed zaplanowanym CK postaci lub zaprzestaniem rozgrywki.
+> 3.4. Prawo do wykonania CK ma administracja, szef organizacji przestępczej lub osoba odgrywająca postać.
+> 3.5. Po wykonaniu CK należy powiadomić administrację w celu wymazania postaci.
+> 3.6. Gracze których postacie są niedbałe, nie posiadają żadnych celów w życiu lub są pozbawione cech osobowości będą uśmiercane.
+> 3.7. Zakazuje się podszywania pod inne postacie, kreowanie postaci o takim samym imieniu i nazwisku będzie karane.
+> 3.8. Na wyspie jest możliwość utworzenia trzech postaci, dwa sloty są dostępne dla wszystkich graczy, trzeci natomiast zarezerwowany jest dla osób wspierających serwer.
+> 
+
+§4.Służby Publiczne
+
+4.1. Funkcjonariusz Policji ma prawo wylegitymować każdego obywatela. Podczas legitymowania obywatela sam również musi się wylegitymować, podać imię, nazwisko i stopień. 
+4.2. Funkcjonariusz Policji ma prawo przeszukać obywatela, który znajduje się w zielonej strefie i jest zamaskowany.
+4.3. Medycy mogą stosować lekki PowerGaming gdy obywatel nie wykonuje poleceń medyka lub wykazuje nadmierną agresję słowną.
+4.4. W przypadku gdy gracz łamie regulamin a na serwerze  nie ma dostępnego żadnego administratora, Policja ma prawo wtrącić go do więzienia aż do wyjaśnienia sprawy.
+4.5. Szefowie służb publicznych nie mogą być skorumpowani.
+4.6. LSPD, mogą rozdawać ani sprzeEMS nie dawać przedmiotów które pozyskują z Komendy, Biura Szeryfa lub Szpitala.
+4.7. LSPD, i EMS podczas służby powinni poruszać się w strojach roboczych oraz dojeżdżać na miejsce zgłoszenia pojazdami służbowymi (wyjątkiem są szefowie danej frakcji).
+4.8. Policja nie ma prawa zatrzymać w szpitalu obywatela po BW, jeśli do szpitala nie dowiozło go LSPD lub EMS.
+4.9. Kategorycznie zabrania się porwań Medyka podczas służby (Medycy są nietykalni podczas służby).
+4.10. Zakazuje się odradzania w szpitalu po BW kiedy wysłano zgłoszenie EMS, wezwano LSPD lub chcesz uniknąć akcji RP.
+4.11. Postacie odgrywające rolę LSPD,lub EMS są zobowiązane do wykonywania swojej pracy oraz mają zakaz faworyzacji graczy. 
+4.12. Jako LSPD, FBI lub EMS na swojej służbie nie możesz wykonywać żadnych nielegalnych akcji RP.
+4.13. Jeżeli nie jesteś na służbie nie masz prawa używać sprzętu medycznego lub policyjnego oraz mocy medycznych lub policyjnych.
+§5.Przestępstwa
+
+> 5.1. Zakazuje się dokonywania brutalnych przestępstw oraz napaści w miejscach nierealistycznych (zielone strefy).
+> 5.2. Aby kogoś porwać z miejsc publicznych musimy mieć do tego DOBRY powód. Każde porwanie musi być wcześniej zaplanowane. Obywatel, który nikomu nic nie zaszkodził i stoi w miejscu publicznym (zielona strefa), a zostanie bez powodu porwany przez "gangstera" gdy ten chce sobie zrobić napad na bank, ma prawo zgłosić to później do administracji.
+> 5.3. Zakazuje się okradania kont bankowych. Takie zachowanie będzie traktowane jako PowerGaming.
+> 5.4. Zakazuje się wzywania usług znajdujących się w telefonie w celu napadnięcia lub porwania.
+> 5.5. Zabicie lokalnego bez powodu jest traktowane jako przestępstwo.
+> 5.6. Maksymalna liczba osób mogąca brać udział w danej akcji
+> W przypadku LSPD
+> Napad na Sklep -  2 funkcjonariuszy
+> Napad na Jubilera - 5 funkcjonariuszy
+> Napad na Bank -  4 funkcjonariuszy
+> W przypadku napastników:
+> Napad na Sklep max 4 napastników
+> Napad na Jubilera max 6 napastników
+> Napad na Bank - min 4 - max 6 napastników
+> 5.7. Dozwolone jest przeszukiwanie/okradanie gracza jeżeli mamy podstawę pod RP oraz zmusiliśmy go do podniesienia rąk lub będzie on zakuty.
+> 5.8. Skuwanie dozwolone jest dopiero wtedy gdy gracz podniesie ręce do góry. W przypadku, kiedy osoba nie chce podnieść rąk należy użyć środków dostępnych na serwerze, aby zmusić ją do podniesienia rąk.
+> Przykładowe sytuacje : 
+> Akcja 1 vs 1 Możesz się bronić lub wykorzystać nieuwagę przeciwnika
+> Akcja 1 vs 2 Musisz się poddać (wyjątkiem jest sytuacja kiedy ty inicjujesz walkę i zachodzisz przeciwników od tyłu)
+> 
+Jeżeli ktoś do ciebie celuje musisz podnieść ręce do góry. 
+Jeżeli ktoś wyjmie i wymierzy w ciebie broń pierwszy nie możesz zacząć do niego celować
+Jeżeli ktoś opuści lub schowa broń możesz to wykorzystać i zacząć do niego celować jeśli jesteś do niego zwrócony twarzą w twarz. .
+5.9. Jeżeli ktoś celowo ucieka do zielonej strefy aby uniknąć akcji RP (Patrz punkt 1 w tym samym paragrafie) dozwolone jest dokonanie takiej akcji w zielonej strefie.
+5.10. Po zrobieniu na kimś BW osoba zabijająca ma obowiązek rozkuć poszkodowaną osobę.
+5.11. Do każdego napadu potrzebny jest przynajmniej jeden (nie podstawiony) zakładnik oraz muszą zostać podjęte negocjacje z obu stron. Otworzenie ognia w którymkolwiek kierunku (również do zakładnika) musi zostać poprzedzone negocjacjami. Złamanie tego punktu regulaminu będzie uznawane za RDM.
+5.12. Grupa lub gang może wykorzystywać maksymalnie 6 członków grupy lub gangu do odgrywania sytuacji roleplay.
+5.13. Zakazane jest napadanie na ludzi którzy piorą pieniądze bez naprawdę dobrego powodu IC.
+5.14. Zakazane jest korzystanie z telefonu w momencie kiedy ktoś do Ciebie celuje. Wyjątkiem jest sytuacja kiedy osoba celująca wyda Ci taki rozkaz.
+5.15. W agresywnej akcji RP (np. agresywna wymiana ognia) może maksymalnie uczestniczyć po 8 osób z każdej ze stron.
+5.16. W odbiciu konwoju może brać udział maksymalnie 8 osób pod warunkiem, że jest minimum 5 policjantów na służbie. Jeśli jest ich 4 bądź mniej to w odbiciu może wziąć udział maksymalnie 5 osób.
+5.17. Dopiero po odpowiedniej inicjacji można oddać strzały, inaczej będzie to traktowane jak RDM.
+§6. Pojazdy
+
+> 6.1. Zakazuje się poruszania pojazdami po terenach, do których nie są one przystosowane.
+> 6.2. Kategorycznie zakazuje się kradzieży pojazdów medycznych.
+> 6.3. Kategorycznie zakazuje się kradzieży pojazdów służb publicznych bez konkretnej przyczyny.
+> 6.4. Ograniczenia prędkości:
+> Obszar zabudowany          80 km/h
+> Obszar niezabudowany  130 km/h
+> 6.5. W pracach legalnych obowiązuje tylko i wyłącznie poruszanie się pojazdami służbowymi lub identycznymi pojazdami posiadanymi na własność. Poruszanie się autem podczas pracy innej klasy niż przydzielonym będzie karane.
+> 6.6. Wyznacznikiem czy pojazd nadaje się do jazdy terenowej po nieubitej ani nieutwardzonej powierzchni nie są opony terenowe lecz klasa pojazdu (wyjątkami są drogi oznaczone na mapie). Pojazdy które mogą wyjechać poza teren muszą znajdować się w klasie OFF-ROAD lub SUV (jeśli posiadają adekwatny prześwit oraz opony terenowe).
+> 
+§7.Działalności
+
+> 7.1. Działalność może założyć każdy gracz.
+> 7.2. Działalność musi składać się minimalnie z 3 członków. 
+> 7.3. W celu założenia działalność należy wystosować odpowiednie podanie.
+> 7.4. Po akceptacji podania przez administracje gracz musi przygotować kapitał zakładowy, oraz wybrać dostępne miejsce na siedzibę działalności.
+> 7.5. Kapitał zakładowy jest wyznaczany indywidualnie dla każdej działalności. 
+> 7.6. Działalność może założyć gracz który wykazuje regularną aktywnością na wyspie oraz jego staż przekracza min 2 tygodnie oraz nie było na niego żadnych skarg i jest dobrze postrzegany przez innych obywateli.
+> 7.7. Zakazuje się podszywania pod pracown
+> 
+§8.Discord
+
+> 8.1. Każdy użytkownik, który wszedł na serwer “KoronaRP” powinien dołączyć na serwer Discord “KoronaRP”, brak dołączenia działa tylko na jego niekorzyść.
+> 8.2. Nick Discord powinien być zbliżony nazwą do nazwy Konta Steam.
+> 8.3. Do kontaktu z administracją służy specjalnie przygotowany kanał “Pomoc admina”.
+> 8.4. Administracja nie jest zobowiązana do odpowiadania na prywatne wiadomości Discord. Wiadomości chaotyczne, niesprecyzowane ,pozbawione szczegółów lub wielokrotnie wysyłane będą ignorowane.
+> 8.5. Pisanie na kanałach IC, w formie OOC będzie traktowane jako MetaGaming.
+> 8.6. Zabrania się wołania osób na Discord na czacie głosowym podczas trwania akcji. 
+> 8.7. Podczas wyjaśniania spiny gracz powinien posiadać dowody w formie screenshotów lub nagrań, w przeciwnym wypadku administrator ma prawo odmówić wyjaśniania sprawy. Wyjątkiem jest administrator który był świadkiem danej sytuacji która kategorycznie złamała regulamin.
+> 8.8. Każda osoba wezwana na Discord ma obowiązek stawiennictwa się na kanale, aby wyjaśnić całą sytuację. Brak stawiennictwa się na Discordzie może skutkować wydłużonym banem.
+> 8.9. Osoby które wyjaśniają daną sytuację na Discord mają obowiązek stania w bezruchu lub wyjścia z serwera na czas rozstrzygania sytuacji.
+> 8.10. Sytuację na Discord mogą rozstrzygać tylko administratorzy bezstronni. Jeśli administrator był zamieszany w akcję musi wezwać innego administratora który w tej akcji nie brał udziału.
+> 8.11. Wynoszenie jakichkolwiek informacji poza kanały frakcji publicznych będzie traktowane jako MetaGaming.
+> 
+
+§9.Podstawowe pojęcia RP
+
+IC (In Character) - Świat gry oraz wszystko to co odbywa się w grze.
+OOC (Out of Character) - Świat realny oraz wszystko to co nas otacza.
+MG (Meta Gaming) - Wykorzystywanie wiadomości OOC w IC.
+PG (Power Gaming) - Zmuszenie gracza do wykonania akcji RP.
+BW (Brutally Wounded) - Stan nieprzytomności naszej postaci (szary ekran który wyświetla się jak zginiemy)
+VDM (Vehicle Deathmatch) - jest to zabijanie przypadkowych osób bez konkretnego powodu z użyciem pojazdów 
+RDM (Random Deathmatch) - jest to zabijanie przypadkowych osób bez konkretnego powodu.
+CK (Character Kill) - Uśmiercenie postaci
+CN (Celebrity Name) - Imię lub Nazwisko sławnej osoby rzeczywistej lub fikcyjnej w naszym nicku
+NJ (Ninja Jacking) - Wyrzucenie z samochodu z pozycji kierowcy przypadkowej osoby bez konkretnego powodu
+BH (Bunny Hop) - Używanie animacji skakania w celu szybszego przemieszczania się.
+CB (Cop Baiting) - Prowokowanie policji bez konkretnego powodu.
+CL (Combat Log) - Wyjście z gry podczas akcji RP w celu uniknięcia konsekwencji
+RK (Revenge Kill) - Zemsta na graczu prosto po wyjściu ze szpitala który wcześniej doprowadził do śmierci naszej postaci
+DB (Drive By) - Strzelanie z samochodu z pozycji kierowcy
+Fail Driving - Poruszanie się pojazdami które byłoby niemożliwe w prawdziwym życiu. (np Jazda samochodem sportowym po nieutwardzonej nawierzchni)
+
+Zielone Strefy (Green Zone) - Na tych obszarach obowiązuje całkowity zakaz porwań, strzałów, bójek. (Jeśli akcja toczyła się uprzednio poza zieloną strefą a następnie przeniosła się do zielonej strefy można ją kontynuować)
+Wszystkie Komendy Policji
+Wszystkie Biura Szeryfów
+Wszystkie Szpitale
+Warsztat Mechanika
+Salony Samochodowe
+Urząd Pracy
+Miejsce tworzenia postaci
+Więzienie oraz teren wokół
+Klub Galaxy
+> Aby odgrywać dziecko trzeba mieć rodzinę typu Mama/Tata
+> Zakazane jest robienia (crimerp) jako dziecko
+> Nie wolno ci jezdzić autami nie przeznaczonymi do ciebie!
+> 
+wszystkie shoty, filmy, zdjęcia itp. podlegają pod własność KoronaRP oraz są chronione prawami copyright, każda próba kradzieży będzie równo znaczna z konsekwencjami
