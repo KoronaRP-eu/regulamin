@@ -1,18 +1,18 @@
 Regulamin Serwera
- Inferno66RP
+ NewYorkRP.pl
 --------------------------------------------------
 
 
 
 §1.Zasady ogólne
 
-1.1. Wchodząc na serwer “Inferno66RP” zgadzasz się z poniższym regulaminem i potwierdzasz jego znajomość.
+1.1. Wchodząc na serwer “NewYorkRP.pl” zgadzasz się z poniższym regulaminem i potwierdzasz jego znajomość.
 1.2. Nieznajomość regulaminu nie zwalnia z jego przestrzegania.
 1.3. W przypadku stwierdzenia przez administracje czynności lub zachowania nieodpowiedniego, nieuwzględnionego w regulaminie administracja ma prawo na wyciągnięcie konsekwencji.
 1.4. Wykorzystywanie błędów w grze związanych ze skryptami oraz nie zgłaszanie ich do administracji będzie karane.
 1.5. Zakazuje się korzystanie z wspomagaczy oraz oprogramowania stron trzecich.
 1.6. Administracja nie ponosi odpowiedzialności za utratę kont (nikomu nie podawaj loginów/haseł, administracja nigdy cię o to nie poprosi) oraz straty materialne podczas rozgrywki
-> 2.1. Serwer “Inferno66RP” jest serwerem RolePlay i obowiązują na nim wszystkie zasady związane z RP.
+> 2.1. Serwer “NewYorkRP.pl” jest serwerem RolePlay i obowiązują na nim wszystkie zasady związane z RP.
 > 2.2. Rozgrywka na serwerze odbywa się w języku polskim, dozwolone jest wtrącanie zagranicznych zwrotów w celu urozmaicenia postaci, aczkolwiek w stopniu przystępnym dla innych graczy.
 > 2.4. Korzystanie z komunikatorów głosowych (Discord. TeamSpeak itp.) podczas rozgrywki będzie traktowane jako MetaGaming (wyjątkiem jest Radio służb publicznych na Discord).
 > 2.5. Wykorzystywanie wszelkich błędów w grze, jej mechaniki dających przewagę lub podejmowanie czynności znając mechanikę gry, która umożliwia otrzymanie pożądanego efektu, będzie karane.
@@ -46,7 +46,6 @@ Regulamin Serwera
 > 4.12. Jako LSPD, FBI lub EMS na swojej służbie nie możesz wykonywać żadnych nielegalnych akcji RP.
 > 4.13. Jeżeli nie jesteś na służbie nie masz prawa używać sprzętu medycznego lub policyjnego oraz mocy medycznych lub policyjnych.
 > 
-
 §5.Przestępstwa
 
 > 5.1. Zakazuje się dokonywania brutalnych przestępstw oraz napaści w miejscach nierealistycznych (zielone strefy).
@@ -104,7 +103,7 @@ Jeżeli ktoś opuści lub schowa broń możesz to wykorzystać i zacząć do nie
 > 
 §8.Discord
 
-> 8.1. Każdy użytkownik, który wszedł na serwer “Inferno66RP” powinien dołączyć na serwer Discord “Inferno66RP”, brak dołączenia działa tylko na jego niekorzyść.
+> 8.1. Każdy użytkownik, który wszedł na serwer “NewYorkRP.pl ” powinien dołączyć na serwer Discord “NewYorkRP.pl ”, brak dołączenia działa tylko na jego niekorzyść.
 > 8.2. Nick Discord powinien być zbliżony nazwą do nazwy Konta Steam.
 > 8.3. Do kontaktu z administracją służy specjalnie przygotowany kanał “Pomoc admina”.
 > 8.4. Administracja nie jest zobowiązana do odpowiadania na prywatne wiadomości Discord. Wiadomości chaotyczne, niesprecyzowane ,pozbawione szczegółów lub wielokrotnie wysyłane będą ignorowane.
@@ -116,7 +115,7 @@ Jeżeli ktoś opuści lub schowa broń możesz to wykorzystać i zacząć do nie
 > 8.10. Sytuację na Discord mogą rozstrzygać tylko administratorzy bezstronni. Jeśli administrator był zamieszany w akcję musi wezwać innego administratora który w tej akcji nie brał udziału.
 > 8.11. Wynoszenie jakichkolwiek informacji poza kanały frakcji publicznych będzie traktowane jako MetaGaming.
 > 
-§9.Podstawowe pojęcia RP
+*§9.Podstawowe pojęcia RP**
 
 > IC (In Character) - Świat gry oraz wszystko to co odbywa się w grze.
 > OOC (Out of Character) - Świat realny oraz wszystko to co nas otacza.
@@ -149,4 +148,4 @@ Jeżeli ktoś opuści lub schowa broń możesz to wykorzystać i zacząć do nie
 > Aby odgrywać dziecko trzeba mieć rodzinę typu Mama/Tata
 > Zakazane jest robienia (crimerp) jako dziecko
 > Nie wolno ci jezdzić autami nie przeznaczonymi do ciebie!
-> 8.12-Przewiduję że nie ma możliwości zabierania broni długiej z Swatu/lspd ze względu na to że jest jej dosyć na wyspie
+> 
